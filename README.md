@@ -1,6 +1,6 @@
 # DrumKeys
 
-> A simple keyboards combinations that palys sounds when you hit them. This was created as a tutorial and a practice project to understand the fundamentals of Javascript.
+> A simple keyboard combinations that produces sounds when you hit them. This was created as a tutorial practice to understand vanilla Javascript.
 
 ## Table Of Contents
 
